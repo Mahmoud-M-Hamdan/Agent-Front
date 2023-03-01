@@ -1,0 +1,37 @@
+.container{
+    margin-top: 100px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fcd5ce;
+    box-sizing: border-box;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    border-radius: 10px;
+}
+
+.title{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.titleContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: solid 6px #197278;
+    margin-bottom: 24px;
+    
+}
+
+.details{
+    font-size: 18px;
+    color:#6a040f
+}

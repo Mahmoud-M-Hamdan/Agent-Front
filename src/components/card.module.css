@@ -1,0 +1,19 @@
+.cardContainer{
+    padding: 16px;
+    margin: 16px;
+    background-color: #ade8f4;
+    box-shadow: 0px 2px 3px #aaaaaaa3;
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 5px;
+}
+
+.buttonContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 16px;
+
+}

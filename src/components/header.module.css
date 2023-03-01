@@ -1,0 +1,33 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #197278;
+    color: wheat;
+    font-weight: bold;
+    padding: 16px;
+    box-sizing: border-box;
+}
+
+.ul{
+    list-style: none;
+    display:flex;
+    gap: 15px;
+    align-items: center;
+
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+.link:hover{
+    text-decoration: none;
+    color: rgb(243, 81, 81);
+}
+
+.active{
+    text-decoration: none;
+    color: #83aac2fc;
+}
